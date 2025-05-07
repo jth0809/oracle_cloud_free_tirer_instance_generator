@@ -8,9 +8,9 @@
 ### 개발 이유
 간단하게 정리된 한글 문서가 없는 것 같아 정리를 해봤습니다.
 
-## 📦 사용 방법
+## 사용 방법
 
-### 🔧 설치
+### 설치
 
 #### 1. Python 설치
 Python 3.6 이상이 필요합니다.
@@ -27,7 +27,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/oracle/oci-cli/master/scrip
 
 ---
 
-## ☁️ 오라클 클라우드 연동 절차
+## 오라클 클라우드 연동 절차
 
 ### 1. 인증정보 설정
 OCI CLI 명령어를 통해 인증 설정을 진행합니다.
@@ -52,7 +52,7 @@ CLI에서 생성된 공개키(`~/.oci/oci_api_key_public.pem`)를 웹에 등록
 
 ---
 
-## ⚙️ `instance.py` 설정
+## `instance.py` 설정
 
 ### 1. SSH 키 변환
 ```bash
